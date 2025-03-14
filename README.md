@@ -1,5 +1,5 @@
 # Command In Termux        
-```
+089630146775```
 pkg update && pkg upgrade -y         
 pkg install git-y         
 pkg instal php -y       
